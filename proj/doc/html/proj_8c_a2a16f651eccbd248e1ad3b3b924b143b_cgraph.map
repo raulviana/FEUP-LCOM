@@ -1,0 +1,12 @@
+<map id="proj_main_loop" name="proj_main_loop">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,115,159"/>
+<area shape="rect" id="node2" href="$group__game.html#ga9f1c87c7296779c4c895ca2b13ad2e3e" title=" " alt="" coords="175,56,229,83"/>
+<area shape="rect" id="node8" href="$group__graphics.html#gafb534a5385a8374fdb04730a20abce67" title=" " alt="" coords="163,107,241,133"/>
+<area shape="rect" id="node9" href="$group__graphics.html#ga2e31a0cbf1cf8b1fbf35f8f5cc642859" title=" " alt="" coords="163,157,241,184"/>
+<area shape="rect" id="node10" href="$group__graphics.html#gaa6c1ff5024cd4d15e476bce487584daa" title=" " alt="" coords="173,208,231,235"/>
+<area shape="rect" id="node3" href="$group__mouse.html#ga2c932f30a1ab1bf0987e2df825f7a031" title=" " alt="" coords="316,5,408,32"/>
+<area shape="rect" id="node6" href="$group__mouse.html#ga9f80ac43b3eefcb7d732c5e22990d01b" title=" " alt="" coords="289,56,435,83"/>
+<area shape="rect" id="node7" href="$group__mouse.html#ga1e389a1205568df4f4df692cb91c3e58" title=" " alt="" coords="319,107,405,133"/>
+<area shape="rect" id="node4" href="$group__mouse.html#ga3f7c9c4575bfe3ba0766126889c8e2b1" title=" " alt="" coords="483,56,560,83"/>
+<area shape="rect" id="node5" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="608,56,699,83"/>
+</map>

@@ -1,0 +1,19 @@
+{
+  "git.ignoreLimitWarning": true,
+  "C_Cpp.clang_format_fallbackStyle": "LLVM",
+  "diffEditor.ignoreTrimWhitespace": true,
+  "editor.formatOnSave": false,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 100,
+  "files.associations": {
+    "*.xpm": "c",
+    "lcf.h": "c",
+    "graphics.h": "c",
+    "proj.h": "c",
+    "cmath": "c",
+    "time.h": "c",
+    "game.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "Enabled",
+}

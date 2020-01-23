@@ -1,0 +1,19 @@
+/* XPM */
+static xpm_row_t const star2_xpm[] = {
+"5 5 11 1",
+" 	c None",
+".	c #FFFFFF",
+"+	c #E1E7BF",
+"@	c #D7DFA4",
+"#	c #D6DEA2",
+"$	c #C3D062",
+"%	c #BCCA36",
+"&	c #D2DB98",
+"*	c #DDE4B6",
+"=	c #CCD684",
+"-	c #DAE2AF",
+"..+..",
+"..@..",
+"#$%&*",
+"..=..",
+"..-.."};

@@ -1,0 +1,9 @@
+no ficheiro xpm alterar const char * nome da imagem
+		por xpm_row_t const
+
+
+
+gimp export as xpm
+
+
+
