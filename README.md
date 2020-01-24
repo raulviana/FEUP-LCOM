@@ -2,8 +2,8 @@
 Labs and Final Project from Computer Laboratories course
 
 ### Infos
- Class     |   I/O
- ------------------------------
+ Class     |   I/O device
+ --------- |   ---------------
  Lab2      |   Timer
  Lab3      |   Keyboard
  Lab4      |   Mouse
