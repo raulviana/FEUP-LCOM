@@ -16,25 +16,26 @@ Labs and Final Project from Computer Laboratories course
 * **Project Co-Author:** André Lopes dos Santos
 
 
-### Project 
+## Project 
 
-## Asteroids
+### Asteroids
 Based in the popular arcade game [Asteroids](https://en.wikipedia.org/wiki/Asteroids_(video_game))
 
-## Screenshots
+### Screenshots
 
-![menu]()
-### Fig. 1 Main Menu
+![menu](https://github.com/raulviana/FEUP-LCOM/blob/master/img/menu.png)
+#### Fig. 1 Main Menu
 
-![game1]()
-### Fig. 2 Explosion Detail
+![game1](https://github.com/raulviana/FEUP-LCOM/blob/master/img/jogo1.png)
+#### Fig. 2 Explosion Detail
 
-![game2]()
-### Fig. 3 Asteroid Detail
+![game2](https://github.com/raulviana/FEUP-LCOM/blob/master/img/jogo2.png)
+#### Fig. 3 Asteroid Detail
 
-![game3]()
-### Fig. 4 Laser Bullet Detail
+![game3](https://github.com/raulviana/FEUP-LCOM/blob/master/img/jogo3.png)
+#### Fig. 4 Laser Bullet Detail
 
 
-### Notes
+
+## Notes
 The Computer Labs curricular unit is, with no doubt, a big challenge. This rep might help a bit but be careful, don't use code that you didn't write!
