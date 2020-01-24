@@ -2,13 +2,13 @@
 Labs and Final Project from Computer Laboratories course
 
 ### Infos
- Class  |   I/O
+ Class     |   I/O
  ------------------------------
- Lab2   |   Timer
- Lab3   |   Keyboard
- Lab4   |   Mouse
- Lab5   |   Graphics Card
- Project    |   Asteroids Game 
+ Lab2      |   Timer
+ Lab3      |   Keyboard
+ Lab4      |   Mouse
+ Lab5      |   Graphics Card
+ Project   |   Asteroids Game 
 
 * **Course Name:** Computer Laboratories | LCOM
 * **Course Link:** [LCOM Course Page](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436435)
@@ -23,18 +23,22 @@ Based in the popular arcade game [Asteroids](https://en.wikipedia.org/wiki/Aster
 
 ### Screenshots
 
+
 ![menu](https://github.com/raulviana/FEUP-LCOM/blob/master/img/menu.png)
 #### Fig. 1 Main Menu
+
 
 ![game1](https://github.com/raulviana/FEUP-LCOM/blob/master/img/jogo1.png)
 #### Fig. 2 Explosion Detail
 
+
 ![game2](https://github.com/raulviana/FEUP-LCOM/blob/master/img/jogo2.png)
 #### Fig. 3 Asteroid Detail
 
+
 ![game3](https://github.com/raulviana/FEUP-LCOM/blob/master/img/jogo3.png)
 #### Fig. 4 Laser Bullet Detail
-
+----------------------------------------------------------
 
 
 ## Notes
