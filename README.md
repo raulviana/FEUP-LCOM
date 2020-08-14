@@ -1,5 +1,5 @@
 # FEUP-LCOM 2019-2020
-Labs and Final Project from Computer Laboratories course
+Labs and Final Project from Computer Laboratories [(**LCOM**)](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=419993) course
 
 ### Infos
  Class     |   I/O device
